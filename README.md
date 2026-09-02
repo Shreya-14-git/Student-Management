@@ -27,4 +27,4 @@ The project allows dynamic management of student records.
    ./student
 
 ## Author
-Shreya RJ
+Shreya Ravindrakumar Jirgi
